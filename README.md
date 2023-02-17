@@ -1,4 +1,4 @@
-![Logo](https://www.pngitem.com/pimgs/m/26-261034_official-microsoft-azure-logo-hd-png-download.png)
+![Logo](https://logos-download.com/wp-content/uploads/2016/06/Microsoft_Azure_logo_black_background.png)
 
 # Hi, I'm Romesh Dharamgudi! 👋
 I'm a Microsoft Certified: Azure Administrator Associate...
