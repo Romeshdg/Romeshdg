@@ -31,6 +31,17 @@ Mail ID: romeshdharamgudi@gmail.com
 Mob: 8871360600  
 Cloud Platform: Microsoft Azure
 
+## 🔗 Links
+[![linkedin](https://www.linkedin.com/in/romeshdharamgudi/)](https://www.linkedin.com/)
+[![twitter](https://twitter.com/RomeshDg02)](https://twitter.com/)
+[![portfolio](https://hashnode.com/@RomeshDg02)](https://hashnode.com/)
+
+
+## 🛠 Skills
+Azure , Azure DevOps , Git , Docker , Kubernetes
+
+
+![Logo](https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1633665902/hevo-learn/Azure-REST-API-Microsoft-Azure-Logo/Azure-REST-API-Microsoft-Azure-Logo.png?_i=AA)
 
 ----------------------------------------------------------------
 ## Roles & Responsibility :-
@@ -54,20 +65,3 @@ Cost Optimization: Optimizing costs by monitoring resource utilization and imple
 Compliance and Security: Ensuring compliance with industry standards and regulatory requirements and implementing security best practices.
 
 Troubleshooting: Troubleshooting and resolving Azure service-related issues.
-
-## 🔗 Links
-[![linkedin](https://www.linkedin.com/in/romeshdharamgudi/)](https://www.linkedin.com/)
-[![twitter](https://twitter.com/RomeshDg02)](https://twitter.com/)
-[![portfolio](https://hashnode.com/@RomeshDg02)](https://hashnode.com/)
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
-## 🛠 Skills
-Azure , Azure DevOps , Git , Docker , Kubernetes
-
-
-![Logo](https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1633665902/hevo-learn/Azure-REST-API-Microsoft-Azure-Logo/Azure-REST-API-Microsoft-Azure-Logo.png?_i=AA)
