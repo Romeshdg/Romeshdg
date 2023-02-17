@@ -1,4 +1,4 @@
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4oa7Dr69VPsmobrzVQQ8ngxJHj53r6ggfA&usqp=CAU)
+![Logo](https://www.pngitem.com/pimgs/m/26-261034_official-microsoft-azure-logo-hd-png-download.png)
 
 # Hi, I'm Romesh Dharamgudi! 👋
 I'm a Microsoft Certified: Azure Administrator Associate...
