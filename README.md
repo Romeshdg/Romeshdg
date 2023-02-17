@@ -34,9 +34,9 @@ Mob: 8871360600
 Cloud Platform: Microsoft Azure
 
 ## 🔗 Links
-[![linkedin](https://www.linkedin.com/in/romeshdharamgudi/)](https://www.linkedin.com/)
-[![twitter](https://twitter.com/RomeshDg02)](https://twitter.com/)
-[![portfolio](https://hashnode.com/@RomeshDg02)](https://hashnode.com/)
+[![linkedin]()](https://www.linkedin.com/in/romeshdharamgudi/)
+[![twitter]()](https://twitter.com/RomeshDg02)
+[![portfolio]()](https://hashnode.com/@RomeshDg02)
 
 
 ## 🛠 Skills
