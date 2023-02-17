@@ -1,4 +1,4 @@
-![Logo](https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1633665902/hevo-learn/Azure-REST-API-Microsoft-Azure-Logo/Azure-REST-API-Microsoft-Azure-Logo.png?_i=AA)
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4oa7Dr69VPsmobrzVQQ8ngxJHj53r6ggfA&usqp=CAU)
 
 # Hi, I'm Romesh Dharamgudi! 👋
 I'm a Microsoft Certified: Azure Administrator Associate...
