@@ -1,3 +1,5 @@
+![Logo](https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1633665902/hevo-learn/Azure-REST-API-Microsoft-Azure-Logo/Azure-REST-API-Microsoft-Azure-Logo.png?_i=AA)
+
 # Hi, I'm Romesh Dharamgudi! 👋
 I'm a Microsoft Certified: Azure Administrator Associate...
 
@@ -40,5 +42,3 @@ Cloud Platform: Microsoft Azure
 ## 🛠 Skills
 Azure , Azure DevOps , Git , Docker , Kubernetes
 
-
-![Logo](https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1633665902/hevo-learn/Azure-REST-API-Microsoft-Azure-Logo/Azure-REST-API-Microsoft-Azure-Logo.png?_i=AA)
