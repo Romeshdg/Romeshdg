@@ -33,7 +33,7 @@ Cloud Platform: Microsoft Azure
 
 
 ----------------------------------------------------------------
-#Roles & Responsibility :-
+## Roles & Responsibility :-
 ****************************************************************
 Manage Azure Subscriptions and resources: Creating and managing Azure subscriptions, resources, and resource groups. Monitoring resource utilization and resource consumption.
 
