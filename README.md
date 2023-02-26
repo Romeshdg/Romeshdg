@@ -3,7 +3,8 @@
 # Hi, I'm Romesh Dharamgudi! 👋
 I'm a Microsoft Certified: Azure Administrator Associate...
 
-I am highly motivated and eager to start my career in the field of cloud computing. I have completed the AZ-900 Fundamentals and AZ-104 Administrator Associate certifications, which have given me a strong foundation in Azure.
+Hi there! I'm an Azure enthusiast and Administrator who loves building cloud applications and services. 
+I'm always looking to learn more about the latest Azure technologies
 
 ## Certification...
 ****************************************************************
