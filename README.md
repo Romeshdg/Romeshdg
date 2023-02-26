@@ -3,8 +3,7 @@
 # Hi, I'm Romesh Dharamgudi! 👋
 I'm a Microsoft Certified: Azure Administrator Associate...
 
-Hi there! I'm an Azure enthusiast and Administrator who loves building cloud applications and services. 
-I'm always looking to learn more about the latest Azure technologies
+Hi there! I'm an Cloud enthusiast and Administrator who loves building cloud applications and services. I'm always looking to learn more about the latest Cloud technologies.
 
 ## Certification...
 ****************************************************************
