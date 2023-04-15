@@ -42,6 +42,7 @@ Hello! 👋 I'm a Cloud and DevOps enthusiast with a passion for designing, buil
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 🎯 Let's continue to learn and grow together in the exciting field of Cloud and DevOps!
+![VisitorCount](https://profile-counter.glitch.me/Romeshdg/count.svg)
 
 ![DevOps-End-to-End](https://user-images.githubusercontent.com/113555417/232208934-e77e70ea-c57a-4d25-8052-8a3a6ebd04ac.gif)
 
